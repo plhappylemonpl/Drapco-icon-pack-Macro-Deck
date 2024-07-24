@@ -6,7 +6,6 @@
    "packageId" : "LemoN.DrapcoIconPack",
    "version" : "1.0.0",
    "target-plugin-api-version" : 40,
-   "target-macro-deck-version" : "2.14.1"
-   "dll" : ""
+   "target-macro-deck-version" : "2.14.1",
    "author-discord-userid": "287626769534550016"
 }
