@@ -1,0 +1,12 @@
+{
+   "type" : "Plugin|IconPack",
+   "name" : "Drapco Icon Pack",
+   "author" : "LemoN",
+   "repository" : "https://github.com/plhappylemonpl/Drapco-icon-pack-Macro-Deck",
+   "packageId" : "LemoN.DrapcoIconPack",
+   "version" : "1.0.0",
+   "target-plugin-api-version" : 40,
+   "target-macro-deck-version" : "2.14.1"
+   "dll" : ""
+   "author-discord-userid": "287626769534550016"
+}
